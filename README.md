@@ -277,6 +277,7 @@
 * [Materialize-rtl - نسخه راست به چپ Materialize](https://github.com/MahdiMajidzadeh/materialize-rtl)
 * [Bootstrap4-Rtl - نسخه راست به چپ Bootstrap 4](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl)
 * [Gentelella-RTL- قالب رایگان مدیریت](https://github.com/mortezakarimi/gentelella-rtl)
+* [RTL HTML Starter - قالب پایه HTML راست‌چین رایگان با Bootstrap 5 و فونت وزیرمتن](https://github.com/Cmatrix1/rtl-html-starter)
 
 ## گروه‌ها
 
